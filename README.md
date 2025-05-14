@@ -104,8 +104,7 @@ Hour 3: Surface Water Monitoring
 ## Contact
 
 For questions or troubleshooting before the event, contact:  
-Saurav Kumar  
-[YourEmail@domain.edu]  
+Saurav Kumar  (sk2@asu.edu)
 Arizona State University
 
 We look forward to seeing you in Room 4 for an afternoon of learning, collaboration, and innovation!
