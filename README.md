@@ -1,11 +1,11 @@
 # Technical Workshop: Remote Sensing for Water Resources and Water Quality Modeling Applications
 
-Date: Sunday, May 18, 2025  
-Time: 1:00 PM – 5:00 PM (Alaska Daylight Time, AKDT)  
-Location: Room 4  
-PDHs: 4.0 Professional Development Hours  
+**Date**: Sunday, May 18, 2025  
+**Time**: 1:00 PM – 5:00 PM (Alaska Daylight Time, AKDT)  
+**Location**: Room 4  
+**PDHs**: 4.0 Professional Development Hours  
 
-Organized by the [Remote Sensing Applications for TMDL Modeling Task Committee (ASCE)](https://www.asce.org/communities/institutes-and-technical-groups/environmental-and-water-resources-institute/committees/environmental-and-water-resources-institute/ewri-governing-board/technical-coordination-executive-committee/watershed-council/watershed-management-technical-committee/remote-sensing-applications-for-tmdl-modeling)
+**Organized by the [Remote Sensing Applications for TMDL Modeling Task Committee (ASCE) https://bit.ly/RS-TC](https://www.asce.org/communities/institutes-and-technical-groups/environmental-and-water-resources-institute/committees/environmental-and-water-resources-institute/ewri-governing-board/technical-coordination-executive-committee/watershed-council/watershed-management-technical-committee/remote-sensing-applications-for-tmdl-modeling)**
 
 ## Workshop Purpose
 
@@ -19,12 +19,12 @@ Participants will:
 
 ## Instructors
 
-- Saurav Kumar, Ph.D., F.EWRI – Arizona State University (Lead Instructor)  
-- Abhiram Siva Prasad Pamula – Marquette University  
-- Vamsi Krishna Sridharan, M.ASCE – Tetra Tech  
-- Huilin Gao – Texas A&M University  
+- Saurav Kumar, Ph.D., P.E., F.EWRI – Arizona State University (Lead Instructor)  
+- Abhiram Siva Prasad Pamula, Ph.D.,  – Marquette University  
+- Vamsi Krishna Sridharan, Ph.D., M.ASCE – Tetra Tech  
+- Huilin Gao, Ph.D., M. ASCE – Texas A&M University  
 - Walter M. McDonald, Ph.D., M.ASCE – Marquette University  
-- Abhinav Gupta  
+- Abhinav Gupta, Ph.D – University of Cincinnati
 - Rocky Talchabhadel – Jackson State University  
 
 ## Pre-Workshop Checklist
@@ -81,6 +81,8 @@ Hour 3: Surface Water Monitoring
 ## Repository Structure
 
 ```
+├── Introduction Presentation/
+│   └── climate_tool_gee.js         # Climate data viewer in GEE
 ├── climate_analysis/
 │   └── climate_tool_gee.js         # Climate data viewer in GEE
 ├── sediment_estimation/
