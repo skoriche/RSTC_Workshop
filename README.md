@@ -5,7 +5,7 @@ Time: 1:00 PM – 5:00 PM (Alaska Daylight Time, AKDT)
 Location: Room 4  
 PDHs: 4.0 Professional Development Hours  
 
-Organized by the Remote Sensing Applications for TMDL Modeling Task Committee (ASCE)
+Organized by the [Remote Sensing Applications for TMDL Modeling Task Committee (ASCE)](https://www.asce.org/communities/institutes-and-technical-groups/environmental-and-water-resources-institute/committees/environmental-and-water-resources-institute/ewri-governing-board/technical-coordination-executive-committee/watershed-council/watershed-management-technical-committee/remote-sensing-applications-for-tmdl-modeling)
 
 ## Workshop Purpose
 
