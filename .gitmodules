@@ -1,0 +1,9 @@
+[submodule "external/GeoClimate-Fetcher"]
+	path = external/GeoClimate-Fetcher
+	url = https://github.com/Saurav-JSU/GeoClimate-Fetcher
+[submodule "external/Index-Visualizer"]
+	path = external/Index-Visualizer
+	url = https://github.com/Saurav-JSU/Index-Visualizer
+[submodule "external/GeeData-GroundData-validator"]
+	path = external/GeeData-GroundData-validator
+	url = https://github.com/Saurav-JSU/GeeData-GroundData-validator
