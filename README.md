@@ -19,13 +19,13 @@ Participants will:
 
 ## Instructors
 
-- Saurav Kumar, Ph.D., P.E., F.EWRI – Arizona State University (Lead Instructor)  
+- Saurav Kumar, Ph.D., P.E., F.EWRI – Arizona State University
 - Abhiram Siva Prasad Pamula, Ph.D.,  – Marquette University  
 - Vamsi Krishna Sridharan, Ph.D., M.ASCE – Tetra Tech  
 - Huilin Gao, Ph.D., M. ASCE – Texas A&M University  
 - Walter M. McDonald, Ph.D., M.ASCE – Marquette University  
 - Abhinav Gupta, Ph.D – University of Cincinnati
-- Rocky Talchabhadel – Jackson State University  
+- Rocky Talchabhadel, Ph.D – Jackson State University  
 
 ## Pre-Workshop Checklist
 
@@ -61,47 +61,23 @@ To get the most out of this session, please do the following:
 Hour 1: Introduction & Fundamentals  
 - 1:00–1:10 PM – Welcome & Goals  
 - 1:10–1:25 PM – Remote Sensing for Water Applications  
-- 1:25–1:40 PM – GEE: Introduction & Capabilities  
-- 1:40–1:50 PM – Finding Data and Using the AGU Cheat Sheet  
-- 1:50–2:00 PM – Break
+- 1:25–1:50 PM – GEE: Introduction & Capabilities  
+- 1:50–2:00 PM – Break 🍱
 
 Hour 2: Climate & Sediment Analysis  
-- 2:00–2:40 PM – Hands-On: Climate Trends in GEE  
-- 2:40–2:45 PM – Short Break  
+- 2:00–2:40 PM – Gridded Data Validator Graphical User Interface
+  - The tool facilitates systematic comparison between ground station measurements and various gridded precipitation products (ERA5, DAYMET, PRISM, CHIRPS, FLDAS, GSMAP, and GLDAS). Developed us-ing PyQt5, the application implements a Model-View-Controller architecture integrating Earth Engine API for efficient data acquisition.
+- 2:40–2:45 PM – Short Break 🍩
 - 2:45–3:05 PM – Suspended Sediment Estimation (Talk + Demo)
 
 Hour 3: Surface Water Monitoring  
-- 3:05–3:15 PM – Break  
+- 3:05–3:15 PM – Break 🍕 
 - 3:15–3:25 PM – Remote Sensing of Lakes & Reservoirs  
 - 3:25–3:45 PM – Hands-On: Lake Monitoring Activity  
-- 3:45–4:20 PM – CHLA Estimation – Spectral Indices & Code  
-- 4:20–4:50 PM – Final Presentation + Group Discussion  
+- 3:45–4:0 PM – CHLA Estimation – Spectral Indices & Code  
 - 4:50–5:00 PM – Exit Survey & Wrap-Up
 
-## Repository Structure
 
-```
-├── Introduction Presentation/
-│   └── climate_tool_gee.js         # Climate data viewer in GEE
-├── climate_analysis/
-│   └── climate_tool_gee.js         # Climate data viewer in GEE
-├── sediment_estimation/
-│   └── suspended_sediment_demo.js # Sediment detection from RS data
-├── lake_monitoring/
-│   └── lake_activity.js            # Surface water delineation workflow
-├── chla_estimation/
-│   └── chla_index_analysis.js      # CHLA estimation demo
-├── data/
-│   └── sample_regions.geojson      # Sample lake/watershed shapefiles
-├── README.md                       # This file
-```
-
-## Example Applications
-
-- Monitor seasonal or decadal lake shrinkage using NDWI  
-- Track CHLA concentrations to identify eutrophication events  
-- Compare climate trends across basins using GEE charts  
-- Assess suspended sediment load changes after storm events  
 
 ## Contact
 
