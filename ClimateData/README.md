@@ -7,3 +7,4 @@ This workshop includes three integrated tools developed by Saurav-JSU for access
 - [GeeData-GroundData-validator](https://github.com/Saurav-JSU/GeeData-GroundData-validator): Validate GEE climate datasets against in-situ observations.
 
 All tools are included in the `/external/` folder or can be cloned separately.
+Use `git submodule update --init --recursive` to clone submodules in your local computer
