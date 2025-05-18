@@ -61,8 +61,6 @@ To get the most out of this session, please do the following:
   - https://courses.spatialthoughts.com/end-to-end-gee.html  
   - https://developers.google.com/earth-engine/tutorials
 
-- USGS Spectral Viewer  
-  https://www.usgs.gov/labs/spec-lab/capabilities/spectral-viewer
 
 ## Workshop Agenda
 
