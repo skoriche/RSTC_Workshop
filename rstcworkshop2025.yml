@@ -1,0 +1,36 @@
+name: rstcworkshop2025
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>3.9,<3.13
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - xgboost
+  - scipy
+  - seaborn
+  - geopandas
+  - contextily
+  - shapely
+  - fiona
+  - earthengine-api
+  - geemap
+  - ipyleaflet
+  - ipywidgets
+  - ipython
+  - xarray
+  - netCDF4
+  - rapidfuzz
+  - tqdm
+  - requests
+  - rich
+  - rasterio
+  - rio-cogeo
+  - jupyter
+  - streamlit
+  - folium
+  - streamlit-folium
+  - plotly
+  - anywidget
