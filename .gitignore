@@ -26,6 +26,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 /Suspended_Sediments/*.png
+/Suspended_Sediments/*.tif*
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
