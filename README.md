@@ -49,6 +49,7 @@ To get the most out of this session, please do the following:
    1. Run `conda env create -f rstcworkshop2025.yml` to create the conda environment.
    2. Next run on terminal  `conda activate rstcworkshop2025`
    3. Finally pip install some packages `pip install -r requirements.txt`
+   4. Pull external repo `git submodule update --init --recursive`
 
 ## Resources & References
 

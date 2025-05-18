@@ -2,10 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*/data
 # C extensions
 *.so
-
+*/dataLSTM_SR.txt
 # Distribution / packaging
 .Python
 build/
