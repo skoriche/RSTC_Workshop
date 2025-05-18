@@ -51,6 +51,13 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+*/external/*
+/external/*
+external
+Data
+Results
+Plots
+downloads
 
 # Translations
 *.mo

@@ -50,6 +50,7 @@ To get the most out of this session, please do the following:
    2. Next run on terminal  `conda activate rstcworkshop2025`
    3. Finally pip install some packages `pip install -r requirements.txt`
    4. Pull external repo `git submodule update --init --recursive`
+   5. On terminal do `earthengine authenticate`
 
 ## Resources & References
 
