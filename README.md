@@ -45,7 +45,7 @@ To get the most out of this session, please do the following:
    Signup: https://signup.earthengine.google.com  
    Once approved: https://code.earthengine.google.com
 
-4. Install Anaconda or Miniconda (https://www.anaconda.com/download/)[https://www.anaconda.com/download/]
+4. Install Anaconda or Miniconda [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
    1. Run `conda env create -f rstcworkshop2025.yml` to create the conda environment.
    2. Next run on terminal  `conda activate rstcworkshop2025`
    3. Finally pip install some packages `pip install -r requirements.txt`
